@@ -1,0 +1,4 @@
+﻿  ds_report06.cpp
+c:\users\lg\source\repos\ds_report06\ds_report06.cpp(73): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\lg\source\repos\ds_report06\ds_report06.cpp(80): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  ds_report06.vcxproj -> C:\Users\LG\source\repos\ds_report06\Debug\ds_report06.exe
